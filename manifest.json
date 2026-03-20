@@ -1,0 +1,26 @@
+{
+  "name": "britoqueiroz",
+  "short_name": "britoqueiroz",
+  "description": "Gestão de conteúdo e gravações da Agência britoqueiroz",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#09070f",
+  "theme_color": "#9333ea",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["productivity", "business"],
+  "lang": "pt-BR"
+}

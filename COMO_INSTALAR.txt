@@ -1,0 +1,35 @@
+# britoqueiroz — App PWA
+
+## Como instalar no celular
+
+### Android (Chrome) — RECOMENDADO
+1. Coloque os arquivos numa hospedagem gratuita (veja abaixo)
+2. Abra o link no Chrome do celular
+3. Toque nos 3 pontos (⋮) no canto superior direito
+4. Toque em "Adicionar à tela inicial" ou "Instalar app"
+5. Confirme — o ícone aparece na tela inicial igual a um app!
+
+### iPhone (Safari)
+1. Coloque os arquivos numa hospedagem gratuita (veja abaixo)
+2. Abra o link no Safari do iPhone
+3. Toque no botão de compartilhar (□↑) na barra inferior
+4. Role e toque em "Adicionar à Tela de Início"
+5. Confirme — o ícone aparece na tela inicial!
+
+---
+
+## Hospedagem GRATUITA em 5 minutos (Netlify)
+
+1. Acesse: https://app.netlify.com/drop
+2. Arraste a pasta "britoqueiroz-pwa" inteira para a página
+3. Pronto! Você recebe um link tipo: https://nome-aleatorio.netlify.app
+4. Abra esse link no celular e instale como descrito acima
+
+---
+
+## Arquivos
+- index.html — o app completo
+- manifest.json — configurações do PWA
+- sw.js — service worker (funciona offline)
+- icon-192.png — ícone do app (192x192)
+- icon-512.png — ícone do app (512x512)
